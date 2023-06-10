@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687013996945",
+    "project_id": "apptoursurabaya",
+    "storage_bucket": "apptoursurabaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687013996945:android:47a0ddee3d0ade4471d230",
+        "android_client_info": {
+          "package_name": "com.example.apptoursurabaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687013996945-85us7008n0ql79pjrug02qod0858h4ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_rZp1bhNis8OLRKK_FuTQPpvVXAQAb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687013996945-85us7008n0ql79pjrug02qod0858h4ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

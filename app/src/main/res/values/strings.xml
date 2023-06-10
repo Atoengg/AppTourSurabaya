@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AppTourSurabaya</string>
+    <string name="sign_in">Sign In</string>
+    <string name="masukan_username_anda">masukan username anda</string>
+    <string name="password">masukan password anda</string>
+    <string name="daftar">Daftar</string>
+    <string name="sudah_memiliki_akun">Sudah memiliki Akun?</string>
+    <string name="daftarkan_akun_anda">Daftarkan Akun Anda</string>
+    <string name="ayo_daftar_dan_gabung">Ayo Daftar dan Gabung</string>
+    <string name="masukan_nama_lengkap_anda">masukan Nama Lengkap anda</string>
+    <string name="masukan_alamat_anda">masukan Alamat anda</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="mulai">Mulai</string>
+    <string name="titleSplash">Temukan <font color="#0284C7">Wisata </font>Impian<font color="#0284C7"> Anda Di Surabaya </font></string>
+    <string name="sebuah_aplikasi_yang_membantu_anda_dalam_menemukan_wisata_di_surabaya">sebuah aplikasi yang membantu anda dalam menemukan wisata di Surabaya</string>
+    <string name="logout">LogOut</string>
+    <string name="Email">Masukan Email Anda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">profile</string>
+    <string name="about1">Aplikasi App Tour Surabaya merupakan aplikasi berbasis android yang menampilkan beberapa objek wisata yang ada di Kota Surabaya. Aplikasi App Tour Surabaya bertujuan untuk memberikan informasi detail tentang objek wisata yang ada di Kota Surabaya</string>
+    <string name="about2">Aplikasi App Tour Surabaya menampilkan beberapa objek wisata diantaranya Tugu Pahlawan, Kebun Binatang Surabaya, Sunan Ampel, dan lain sebagainya. Selain itu terdapata beberapa fitur untuk memberikan informasi secara detail seperti fitur data user, daftar wisata, fitur maps</string>
+    <string name="belum_memiliki_akun">Belum memiliki Akun?</string>
+    <string name="silahkan_masuk_untuk_melanjutkan">Silahkan Masuk Untuk Melanjutkan</string>
+    <string name="masukan_akun_anda">Masukan Akun Anda</string>
+</resources>
